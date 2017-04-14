@@ -2,7 +2,7 @@
   "name": "spidermonkey",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://uxlayouts.github.io/spidermonkey/build/index.html",
+  "homepage": "https://uxlayouts.github.io/spidermonkey/build/",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
