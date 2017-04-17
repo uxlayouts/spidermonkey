@@ -1,0 +1,23 @@
+#header {
+  position: relative;
+  background: #4ea1d3; }
+
+#header .logo {
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem;
+  color: #ffffff; }
+
+#header ul {
+  list-style: none;
+  margin: 0;
+  position: absolute;
+  right: 3rem;
+  top: 1.9rem; }
+
+#header ul li {
+  display: inline-block; }
+
+#header ul li a {
+  color: white;
+  padding: 1.9rem 1.5rem; }
