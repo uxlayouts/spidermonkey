@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.99c0d5a8.css",
-  "main.css.map": "static/css/main.99c0d5a8.css.map",
-  "main.js": "static/js/main.8919cce6.js",
-  "main.js.map": "static/js/main.8919cce6.js.map",
+  "main.css": "static/css/main.092cf52b.css",
+  "main.css.map": "static/css/main.092cf52b.css.map",
+  "main.js": "static/js/main.a06fc48c.js",
+  "main.js.map": "static/js/main.a06fc48c.js.map",
   "static/media/FuturaBT-Heavy.eot": "static/media/FuturaBT-Heavy.5001a769.eot",
   "static/media/FuturaBT-Heavy.ttf": "static/media/FuturaBT-Heavy.934a0c22.ttf",
   "static/media/FuturaBT-Heavy.woff": "static/media/FuturaBT-Heavy.73338b69.woff",
@@ -14,5 +14,6 @@
   "static/media/SourceSansPro-Light.woff": "static/media/SourceSansPro-Light.df855765.woff",
   "static/media/SourceSansPro-Regular.eot": "static/media/SourceSansPro-Regular.39e155f2.eot",
   "static/media/SourceSansPro-Regular.ttf": "static/media/SourceSansPro-Regular.d30ec56b.ttf",
-  "static/media/SourceSansPro-Regular.woff": "static/media/SourceSansPro-Regular.6b975677.woff"
+  "static/media/SourceSansPro-Regular.woff": "static/media/SourceSansPro-Regular.6b975677.woff",
+  "static/media/stream.jpg": "static/media/stream.6a145d69.jpg"
 }

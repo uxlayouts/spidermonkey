@@ -2,29 +2,24 @@
   height: 400px;
   overflow: hidden;
   position: relative; }
-
-.banner .text {
-  position: absolute;
-  z-index: 3;
-  top: 36%;
-  left: 0;
-  right: 0;
-  text-align: center; }
-
-.banner .text h2 {
-  color: #ffffff; }
-
-.banner .text p {
-  color: #ffffff; }
-
-.banner img {
-  position: absolute;
-  z-index: 2;
-  opacity: .4; }
-
-.banner .underlay {
-  position: absolute;
-  z-index: 1;
-  height: 100%;
-  width: 100%;
-  background: #222222; }
+  .banner .text {
+    position: absolute;
+    z-index: 3;
+    top: 36%;
+    left: 0;
+    right: 0;
+    text-align: center; }
+    .banner .text h2 {
+      color: #ffffff; }
+    .banner .text p {
+      color: #ffffff; }
+  .banner img {
+    position: absolute;
+    z-index: 2;
+    opacity: .4; }
+  .banner .underlay {
+    position: absolute;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    background: #222222; }
